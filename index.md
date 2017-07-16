@@ -54,15 +54,4 @@
 
 >作者：庞楠
 
-<div class="container">
-  <div class="expandDiv">
-   测试文本展开情况
-  </div>
-</div>
-<div class="container">
-  <div class="expandDiv">
-    成功展开
-    </div>
-</div>
-
 ###### BY--Srpihot*
