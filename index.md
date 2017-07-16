@@ -34,6 +34,8 @@
  * 拉马克 25度C
  * 先成人后成才
  * 考前浮躁是大忌
+ 
+ body {background-image:url(https://github.com/zhiwu5/zhiwu5.github.io/blob/master/1386844240817.jpg?raw=true); background-repeat:no-repeat; background-attachment:fixed}
 
 ## 优秀文章
 
