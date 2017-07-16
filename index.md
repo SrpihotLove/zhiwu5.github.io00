@@ -3,7 +3,7 @@
 > 这里主要发布知务5班的的优秀文章和我们的趣事。
   
   
- ### WE ARE FAMILY ! ! !
+  ### WE ARE FAMILY ! ! !
   
   ![](https://github.com/zhiwu5/zhiwu5.github.io/blob/master/psb.jpg?raw=true)
  
@@ -30,6 +30,9 @@
  * 高考考什么？考心态。
  * 来来来别说话跟我走。
  * 想不想ge这念？
+ * 拉马克 25度C
+ * 先成人后成才
+ * 考前浮躁是大忌
 
 ## 优秀文章
 
