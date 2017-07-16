@@ -1,10 +1,12 @@
 # 平度一中2015级知务5班
 
 > 这里主要发布知务5班的的优秀文章和我们的趣事。
+  
+  ### WE ARE FAMILY ! ! !
+  
   ![](http://a2.qpic.cn/psb?/V135rKjF4erLjE/Vui4n8yYhxh7k3xOHo3k*QZB4mPoM7AFlaCSIoLPBIg!/b/dG0BAAAAAAAA&ek=1&kp=1&pt=0&bo=LAQgAwAAAAARFys!&vuin=619443458&tm=1500170400&sce=60-2-2&rf=viewer_4)
-  [欢迎访问本人博客](http://www.cnblogs.com/srpihot)
-
-### WE ARE FAMILY ! ! !
+ 
+ [欢迎访问本人博客](http://www.cnblogs.com/srpihot)
 ***
 
 ## 班级介绍
