@@ -22,9 +22,11 @@
  * 团支书：李淑萍
  * 委员们：卢旭龙 王道科 李淑萍 侯淑婷 彭彩霞 蔡晓辉 赵启昕 初鑫鑫 付瑶 
  * 班技工：孙某
- 
+
 ***
+
 ![](http://qzonestyle.gtimg.cn/qzone/em/e248.gif) ![](http://qzonestyle.gtimg.cn/qzone/em/e248.gif) ![](http://qzonestyle.gtimg.cn/qzone/em/e248.gif)
+
 ## 老师名言：
  * 同学们，加把劲！
  * 嫩说吧，我不说了，看看嫩这个嘴碎达。
@@ -41,7 +43,7 @@
 ***
  
 ## PHOTO
-[！点点点！](https://github.com/zhiwu5/zhiwu5.github.io/blob/master/photos.md)
+[！点点点！](https://zhiwu5.github.io/photos)
 
 ***
  
