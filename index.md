@@ -25,6 +25,7 @@
  
 ***
 ![](http://qzonestyle.gtimg.cn/qzone/em/e248.gif) ![](http://qzonestyle.gtimg.cn/qzone/em/e248.gif) ![](http://qzonestyle.gtimg.cn/qzone/em/e248.gif)
+***
 ## 老师名言：
  * 同学们，加把劲！
  * 嫩说吧，我不说了，看看嫩这个嘴碎达。
@@ -37,6 +38,14 @@
  * 拉马克 25度C
  * 先成人后成才
  * 考前浮躁是大忌
+ 
+***
+ 
+## PHOTO
+[！点点点！](https://github.com/zhiwu5/zhiwu5.github.io/blob/master/photos.md)
+
+***
+ 
  
 ## 优秀文章
 
