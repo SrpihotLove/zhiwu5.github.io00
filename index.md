@@ -43,7 +43,7 @@
 ***
  
 ## PHOTO
-[！点点点！](https://zhiwu5.github.io/photos.md)
+[！点点点！](https://zhiwu5.github.io/po.md)
 
 ***
  
