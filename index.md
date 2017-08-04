@@ -25,7 +25,6 @@
  
 ***
 ![](http://qzonestyle.gtimg.cn/qzone/em/e248.gif) ![](http://qzonestyle.gtimg.cn/qzone/em/e248.gif) ![](http://qzonestyle.gtimg.cn/qzone/em/e248.gif)
-***
 ## 老师名言：
  * 同学们，加把劲！
  * 嫩说吧，我不说了，看看嫩这个嘴碎达。
